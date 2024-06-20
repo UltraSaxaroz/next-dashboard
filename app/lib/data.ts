@@ -7,7 +7,7 @@ import {
   LatestInvoiceRaw,
   User,
   Revenue,
-} from './definitions';
+} from './definitions'; 
 import { formatCurrency } from './utils';
 
 export async function fetchRevenue() {
