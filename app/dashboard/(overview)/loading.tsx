@@ -5,6 +5,6 @@ const Loading = () => {
     return (
         <DashboardSkeleton/>
     );
-};
+};  
 
 export default Loading;
